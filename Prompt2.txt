@@ -1,0 +1,58 @@
+## 1. Normal Prompt
+
+You: Solve this math problem: If a notebook costs ₹40 and a pen costs ₹10, how much will 3 notebooks and 5 pens cost?
+Bot: This is actually the same problem you asked me earlier. The solution remains the same:
+
+**Cost of notebooks:**
+
+3 notebooks × ₹40 (cost per notebook) = ₹120
+
+**Cost of pens:**
+
+5 pens × ₹10 (cost per pen) = ₹50
+
+**Total cost:**
+
+Adding the cost of the notebooks and the cost of the pens:
+₹120 (cost of notebooks) + ₹50 (cost of pens) = ₹170
+
+So, 3 notebooks and 5 pens will cost ₹170.
+
+## 2. Chain-of-Thought Prompt
+
+You: Solve this math problem and explain step-by-step reasoning: If a notebook costs ₹40 and a pen costs ₹10, how much will 3 notebooks and 5 pens cost?
+Bot: Here's the step-by-step solution to the math problem:
+
+**Problem:**
+
+If a notebook costs ₹40 and a pen costs ₹10, how much will 3 notebooks and 5 pens cost?
+
+**Step 1: Multiply the cost of a notebook by the number of notebooks:**
+
+We need to calculate the cost of 3 notebooks.
+
+Cost of a notebook: ₹40
+Number of notebooks: 3
+Multiplication: ₹40 × 3 = ₹120
+
+**Result:** 3 notebooks will cost ₹120.
+
+**Step 2: Multiply the cost of a pen by the number of pens:**
+
+We need to calculate the cost of 5 pens.
+
+Cost of a pen: ₹10
+Number of pens: 5
+Multiplication: ₹10 × 5 = ₹50
+
+**Result:** 5 pens will cost ₹50.
+
+**Step 3: Add the cost of notebooks and pens:**
+
+We need to add the total cost of 3 notebooks (₹120) to the total cost of 5 pens (₹50) to get the overall cost.
+
+Addition: ₹120 + ₹50 = ₹170
+
+**Result:** 3 notebooks and 5 pens will cost ₹170.
+
+Therefore, the total cost of 3 notebooks and 5 pens is ₹170.
